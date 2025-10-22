@@ -7,7 +7,7 @@ import { InformationCircleIcon, UsersIcon, BuildingOfficeIcon, NewspaperIcon, Bo
 import { NavLink } from 'react-router-dom';
 
 const profil = [
-  { name: 'Tentang Kami', description: 'Kenali lebih dekat visi, misi, dan komitmen BMH dalam membangun peradaban berbasis zakat.', href: '/profil-bmh', icon: InformationCircleIcon },
+  { name: 'Tentang Kami', description: 'Kenali lebih dekat visi, misi, dan komitmen BMH dalam membangun peradaban berbasis zakat.', href: '/profil', icon: InformationCircleIcon },
   { name: 'Jajaran Manajemen', description: 'Temui para penggerak BMH yang berdedikasi mengelola amanah zakat dengan profesional dan transparan.', href: '/jajaran-manajemen', icon: UsersIcon },
   { name: 'Perwakilan', description: 'Temukan kantor BMH di berbagai daerah untuk layanan donasi dan program kebaikan lebih dekat dengan Anda.', href: '/kantor-perwakilan', icon: BuildingOfficeIcon },
 ];
