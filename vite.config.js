@@ -5,6 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(), react()],
+  base: process.env.VITE_BASE_PATH || '/new-bmh',
   server: {
     port: 2026,
   },
