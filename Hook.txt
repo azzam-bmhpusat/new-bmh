@@ -1,0 +1,11 @@
+🔚 Rangkuman Masukan Prioritas LandingPage:
+
+1. Tambahkan testimoni/gambar/cerita dampak nyata di hlman utama
+
+2. Tambahkan judul kecil untuk form
+
+3. Tambahkan progress bar (jika target campaign)
+
+4. Buat gradient/visual background lebih terlihat
+
+5. Pertimbangkan ilustrasi visual atau video

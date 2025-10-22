@@ -1,0 +1,50 @@
+container px-4 mx-auto md:px-8 lg:px-16
+
+Popup WA
+
+Color:
+[#095046]
+#9aa8a6ff
+#095046
+#FEB738
+#39BA87
+
+[#39BA87]
+
+HERO UI, ReactBits
+
+✅ Form Login, Langkah Selanjutnya
+API Backend:
+Pastikan endpoint seperti http://localhost:5000/api/login tersedia dan menerima username dan password.
+
+Gunakan HTTPS untuk permintaan autentikasi.
+Gunakan JWT atau session management di backend.
+
+Siap bantu juga jika kamu mau lanjutkan ke backend Node.js/Express atau setup database. Mau lanjut ke situ?
+
+📌 Form Daftar, Pastikan:
+Endpoint http://localhost:5000/api/register tersedia di backend kamu.
+
+Gunakan react-router-dom jika kamu ingin menavigasi antar halaman (useNavigate).
+
+Font Nunito sudah di-include (misal di Tailwind config atau HTML).
+
+📌Bg gradasi
+
+
+📌Component React
+https://www.reactbits.dev/animations/splash-cursor
+
+https://www.heroui.com/docs/components/accordion
+Tailwind Components
+
+https://ui.shadcn.com/docs/components/accordion
+
+📌icon
+https://remixicon.com/
+react-icons/md';
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32.002" height="32" viewBox="0 0 32.002 32" id="error">
+  <path d="M2.062 32h27.812a2 2 0 0 0 1.766-2.942l-13.876-26A1.997 1.997 0 0 0 16.002 2H16c-.738 0-1.414.406-1.762 1.056L.3 29.056a2.004 2.004 0 0 0 .046 1.972A2.005 2.005 0 0 0 2.062 32zM16 24a2 2 0 1 1-.001 4.001A2 2 0 0 1 16 24zm-2-3.968v-8a2 2 0 0 1 4 0v8a2 2 0 0 1-4 0z"></path>
+</svg>
