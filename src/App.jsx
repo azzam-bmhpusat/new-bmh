@@ -12,7 +12,7 @@ import LastCard from './pages/LastCard';
 import JejakKebaikan from './pages/JejakKebaikan';
 import ProgramKami from './pages/ProgramKami';
 import KenapaHarusKami from './pages/KenapaHarusKami';
-import ProfilBmh from './pages/profilbmh';
+import ProfilBmh from './pages/ProfilBmh';
 import JajaranManajemen from './pages/JajaranManajemen';
 import KantorPerwakilan from './pages/KantorPerwakilan';
 import KalkulatorZakat from './pages/KalkulatorZakat';
@@ -51,7 +51,7 @@ function App() {
           <Route path="/jejakKebaikan" element={<JejakKebaikan />} />
           <Route path="/program-kami" element={<ProgramKami />} />
           <Route path="/kenapa-harus-kami" element={<KenapaHarusKami />} />
-          <Route path="/profilbmh" element={<ProfilBmh />} />
+          <Route path="/profil-bmh" element={<ProfilBmh />} />
           <Route path="/jajaran-manajemen" element={<JajaranManajemen />} />
           <Route path="/kantor-perwakilan" element={<KantorPerwakilan />} />
           <Route path="/kalkulator-zakat" element={<KalkulatorZakat />} />
