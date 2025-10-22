@@ -29,12 +29,6 @@ import JemputZakat from './pages/JemputZakat';
 import LaporanKeuangan from './pages/LaporanKeuangan';
 import LaporanTahunan from './pages/LaporanTahunan';
 
-// App.jsx
-// import { app, db, storage } from './config/firebase';
-// console.log('Firebase initialized:', app);
-// console.log('Firestore instance:', db);
-// console.log('Storage instance:', storage);
-
 function App() {
   return (
     <Router>
