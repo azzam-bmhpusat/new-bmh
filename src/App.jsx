@@ -51,7 +51,7 @@ function App() {
           <Route path="/jejakKebaikan" element={<JejakKebaikan />} />
           <Route path="/program-kami" element={<ProgramKami />} />
           <Route path="/kenapa-harus-kami" element={<KenapaHarusKami />} />
-          <Route path="/profil" element={<ProfilBmh />} />
+          <Route path="/profilbmh" element={<ProfilBmh />} />
           <Route path="/jajaran-manajemen" element={<JajaranManajemen />} />
           <Route path="/kantor-perwakilan" element={<KantorPerwakilan />} />
           <Route path="/kalkulator-zakat" element={<KalkulatorZakat />} />
